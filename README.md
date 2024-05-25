@@ -9,7 +9,7 @@ The PhonePe app is available in 11 Indian languages. Using PhonePe, users can se
 
 PhonePe is accepted as a payment option by over 3.5 crore offline and online merchant outlets, constituting 99% of pin codes in the country.
 
-# Phonepe Pluse
+# Phonepe Pulse
 PhonePe Pulse is a feature offered by the Indian digital payments platform called PhonePe.
 
 PhonePe Pulse provides users with insights and trends related to their digital transactions and usage patterns on the PhonePe app. It offers personalized analytics, including spending patterns, transaction history, and popular merchants among PhonePe users.
