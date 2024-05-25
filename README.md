@@ -50,8 +50,8 @@ Use the data in the dataframe to update the dashboard dynamically.
 * Plotly
 
 # Dashboard
-* It contains information about Phonepe in the ABOUT page and details about the Phonepe pulse Data Visualisation in the HOME page
-* ANALYSIS:
+* It contains 4 tabs mainnly for cloning data,insertion,Visualization and Insights.
+* Visualization:
 * It provides information based on all India , States and Top categories
 * Under these it provides analysis based on the Transaction and User data in each category.
 * Provides information based on the ** year and Quarter**
